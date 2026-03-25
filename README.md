@@ -1,2 +1,5 @@
 # Emissary
-An agent sent on a mission to represent the interests of someone else. 
+This project is for educational and experimental purposes. The author is not responsible for any misuse.
+
+
+TO BE UPDATED...
